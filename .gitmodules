@@ -1,0 +1,3 @@
+[submodule "day-one/github-pages-site/themes/hallo"]
+	path = day-one/github-pages-site/themes/hallo
+	url = https://github.com/EmielH/hallo-hugo.git
