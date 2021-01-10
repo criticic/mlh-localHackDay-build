@@ -1,0 +1,20 @@
+baseURL = "http://criticic.github.io/"
+languageCode = "en-us"
+title = "Criticic Intro"
+theme = "hallo"
+
+publishDir = "build"
+
+[Author]
+    name = "Sagnik Mandal"
+
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/criticic"
+
+    [params.colors]
+        background = "#EF476F"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
